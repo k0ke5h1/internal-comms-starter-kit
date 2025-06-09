@@ -10,4 +10,5 @@ This starter kit includes simple resources I've used to build engagement and mor
 - 🎤 All-hands planning checklist
 - 🔁 Communication cadence outline
 
-*This repo is a work in progress—more resources coming soon!*
+### 📁 Included Resources
+- [Internal Comms Editorial Calendar Template](internal-comms-calendar-template.docx)
